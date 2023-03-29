@@ -1,0 +1,19 @@
+Output-
+Total Amount for Each Service:
+LUNCH: 2500
+MOVIE TICKET: 1000
+TEA/COFFEE: 750
+Total Amount for Each Individual:
+CHAITHANYA: 750ANAND: 1000
+BALAJI: 2500
+DIVYA: 375
+Amounts to Pay/Receive:
+CHAITHANYA needs to pay 250 to ANANDCHAITHANYA needs to pay 1750 to BALAJI
+CHAITHANYA needs to receive 375 from DIVYA
+ANAND needs to receive 250 from CHAITHANYA
+ANAND needs to pay 1500 to BALAJI
+ANAND needs to receive 625 from DIVYABALAJI needs to receive 1750 from CHAITHANYA
+BALAJI needs to receive 1500 from ANANDBALAJI needs to receive 2125 from DIVYA
+DIVYA needs to pay 375 to CHAITHANYA
+DIVYA needs to pay 625 to ANAND
+DIVYA needs to pay 2125 to BALAJI
