@@ -1,0 +1,33 @@
+import React, { useState } from 'react';
+import './App.css';
+
+function One() {
+
+    const [count,setCount] = useState(0)
+    
+    const changeName  =() => {
+        setCount(count+1);
+
+    }
+    
+    const DisLike =() =>{
+
+        setCount(count-1);
+    }
+
+return(
+<>
+<h1>{count}</h1>
+<button onClick = {changeName} > Like </button>
+<button onClick = {DisLike} > DisLike </button>
+</>
+)
+
+}
+function App(){
+return (
+<div className="App">
+<One/>
+</div>)
+}
+
